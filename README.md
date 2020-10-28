@@ -1,4 +1,4 @@
-# Covid-19-Patient-Status-Prediction
+# Covid 19 Patient Status Prediction
 **Problem statement**
 <br>When the pandemic occurs, flattening the curve helps us to fight against the virus. It is very important to properally and efficiently distrubte the limited medical resources. If we can fastly and accuratly determine if a patient is in severe status, we can better distribute the medical resources. In this project, I build a fast and accurate model to classify the Covid 19 patients into two classes: the positive class is in high risk, who should go to the hospital to use the equipments; the negative class is in good status, who could stay at home to take medicine and have a good rest.
 
