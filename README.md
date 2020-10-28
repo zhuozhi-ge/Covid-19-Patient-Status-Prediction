@@ -30,7 +30,7 @@
 25. severity_illness_infectious_person: status of the infectious person
 
 **Target**
-<br>severity = 1 (severity_illness is critical or deceased) or 0 (otherwise)
+<br>is_severe = 1 (severity_illness is critical or deceased) or 0 (otherwise)
 
 **Machine learning**
 <br>1, Predict severity of a patient based on given informations by applying different models
