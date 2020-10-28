@@ -27,7 +27,7 @@
 22. date_onset_symptoms_until_confirmed_date: days between onset of symptoms and confirmation
 23. confirmed_date_until_released_date: days between confirmation and released
 24. confirmed_date_until_deceased_date: days between confirmation and deceased
-25. severity_illness_infectious_person:
+25. severity_illness_infectious_person: status of the infectious person
 
 **Target**
 <br>severity = 1 (severity_illness is critical or deceased) or 0 (otherwise)
